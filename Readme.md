@@ -1,10 +1,10 @@
 ### Hi, I'm Ansar - [Personal Website][website] 👋
 
-## I'm a Computer Science Student at Brunel University!
+## Computer Science (Software Engineering) graduate, Brunel University
 
-- 🔭 I just launched my first website: [Website][website]!
-- 🌱 I’m currently learning Spring Boot and React 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🔭 I just launched my first website: [Website][website]
+- 🌱 I'm currently cultivating my knowledge in Vue.js
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My favourite books - 1984, Fahrenheit 451, The Picture of Dorian Gray, Requiem For A Dream and Greenlights
 - 👯 My e-mail: ansarshayekin1@gmail.com
 
@@ -23,3 +23,4 @@
 [website]: https://ansar-codes.netlify.app/
 
 [linkedin]: https://www.linkedin.com/in/ansar-shayekin-289880221/
+
